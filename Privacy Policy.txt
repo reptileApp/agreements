@@ -1,0 +1,97 @@
+
+Privacy Policy
+
+Update: 09.06.2021
+
+
+Alexander Shek built this Reptile App to help people to look after their pets.
+
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure 
+of Personal Information if anyone decided to use my Application.
+
+If you choose to use my Application, then you agree to the collection and use of information in 
+relation to this policy. The Personal Information that I collect is used for providing and 
+improving the Application. I will not use or share your information with anyone except as 
+described in this Privacy Policy.
+
+*** What information does the Application obtain and how is it used? ***
+
+The Application does not provide an option to create an account, I do not store nor 
+have access to your entries and data. Your data are stored only locally on your device and all 
+operations are done on your device as well. You can optionally backup your data to Google 
+Drive (Android) or to Apple iCloud (iOS). Your backups are stored in your private cloud space 
+and I don't have access to your backup files.
+
+I may obtain your email address or phone number when you request support via email or 
+messengers. I may use your email or phone number only to contact you to provide support, 
+feedback or important information.
+
+*** Analytics ***
+
+The application collects some usage data that are essential for me to understand your needs, and 
+to improve the application. Such as app launches, taps, clicks, scrolling information, in-app 
+purchases, screen visits, session durations, or other information about how you interact with our 
+app. These data are anonymized and aggregated from all users who gave us collection 
+consent.
+
+The application does NOT collect any user-generated content. Such as animal names, animal 
+morphs, group names, anything you type within the app.
+
+*** Photos ***
+
+Your photos are stored locally on your phone in our app's storage. If you choose to make a cloud 
+backup (Google Drive or iCloud) your photos are transferred to your private cloud storage. They 
+are counted against your storage quota. I have no access to your photos or camera. Your 
+photos are never sent with the analytics data.
+
+*** Android ***
+
+I use the following third-party services for our Android app:
+
+Google Analytics for Firebase (Google Inc.)
+
+*	This service helps me to collect and analyze usage data in order to understand usage 
+patterns and to improve the Android app.
+*	Data collected: various usage and device data such as cookies, unique device identifiers, 
+Firebase installation IDs, Analytics App Instance IDs, usage data, anonymized IP 
+addresses, session durations, device models, operating systems, geography, in-app 
+purchases, first launches, app opens, app updates.
+
+Firebase Crashlytics (Google Inc.)
+
+*	This service helps me to identify crashes and errors in the app. It helps me to improve the 
+reliability and stability of the Android app.
+*	Data collected: Crashlytics Installation UUIDs, crash traces, device models, geography, 
+operating systems.
+
+*** iOS ***
+
+I use the following third-party services for our iOS app:
+
+Google Analytics for Firebase (Google Inc.)
+
+*	This service helps me to collect and analyze usage data in order to understand usage 
+patterns and to improve the iOS app.
+
+*	Data collected: various usage data, Firebase installation IDs, Analytics App Instance IDs, 
+anonymized IP addresses, session durations, device models, operating systems, 
+geography, in-app purchases, first launches, app opens, app updates.
+
+Firebase Crashlytics (Google Inc.)
+
+*	This service helps me to identify crashes and errors in our app. It helps me to improve the 
+reliability and stability of the iOS app.
+
+*	Data collected: Crashlytics Installation UUIDs, crash traces, device models, geography, 
+operating systems.
+
+*** Changes to This Privacy Policy ***
+
+I may update this Privacy Policy from time to time. Thus, you are advised to review this page 
+periodically for any changes. I will notify you of any changes by posting the new Privacy Policy 
+on this page. These changes are effective immediately after they are posted on this page.
+
+*** Contact ***
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me 
+at sheacspear@gmail.com.
+
